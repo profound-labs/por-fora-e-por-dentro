@@ -276,7 +276,7 @@ também há diferenças. Nas suas investigações, a ciência limita-se a
 estudar tudo quanto é publicamente verificável, possível de medir, e que
 pode ser repetido sempre que se deseja. A investigação introspectiva
 levada a cabo pelos praticantes de meditação budistas não o é.
-Actualmente a maioria dos cientistas assumem, como premissas básicas do
+Actualmente, a maioria dos cientistas assumem, como premissas básicas do
 seu trabalho, um número de asserções não comprovadas, com as quais os
 budistas não concordam. A mais notável destas é a crença que a mente é
 um fenómeno meramente criado pelos trabalhos do cérebro.
@@ -284,7 +284,7 @@ um fenómeno meramente criado pelos trabalhos do cérebro.
 As hipóteses e as teorias surgem na mente humana - não são embebidas no
 mundo externo. A experiência subjectiva é a característica principal da
 nossa vida. A contenda budista defende: qualquer busca das verdades
-perpétuas que ignore este facto, ficará para sempre votada ao sucesso
+perpétuas que ignore este facto, ficará para sempre circunscrita ao sucesso
 parcial.
 
 Apesar destas e doutras diferenças entre o Budismo e a ciência, há que
@@ -384,7 +384,7 @@ que deva ser negligenciado. Largar o corpo não significa que se deva
 deixar de praticar exercício, de tomar banho ou de ter uma dieta
 saudável. Significa não permitir que a vida seja definida em termos
 corporais. Significa libertar-se de toda a ansiedade, insegurança e
-vaidade, de todo o medo de envelhecer, adoecer, e morrer, que acompanham
+vaidade, de todo o medo de envelhecer, adoecer e morrer, que acompanham
 uma relação nada sábia com o corpo.
 
 ‘Largar’ é também um termo usado para um esforço inteligente. Ao
@@ -392,7 +392,7 @@ sabermos que nenhum esforço que façamos existe em vão, que será sempre
 afectado de alguma forma pelas condições sobre as quais não temos
 controlo, largamos as nossas exigências e expectativas relativas ao
 futuro. Criamos as melhores condições possíveis para atingir os nossos
-objectivos, e depois, libertamo-nos dos resultados.
+objectivos, e depois libertamo-nos dos resultados.
 
 == Como é que alguém se torna budista?
 
@@ -584,7 +584,7 @@ responder, tinha de ver qual a velocidade do seu andar, e a determinação
 que aparentava ter.’
 
 Os budistas que estão convictos que existe algo chamado iluminação, que
-têm potencial para o alcançar, e que seguem a via para essa realização,
+têm potencial para o alcançar e que seguem a via para essa realização,
 dedicam pouco tempo a especular sobre o tempo que é necessário para o
 alcançar. Sete dias, sete meses, sete anos, sete vidas – qualquer que
 seja o tempo que leva não há outro caminho.
@@ -736,27 +736,27 @@ fenómenos físicos e mentais.
 A pessoa não iluminada assume que existe uma entidade permanente
 independente que subjaz à experiência, e que esta entidade é o ‘nós’,
 quem nós verdadeiramente somos. Tomamos como garantido que este ‘eu’ é
-quem vê, pensa, sente, ouve, fala, e age. O Buda ensinou que esta
+quem vê, pensa, sente, ouve, fala e age. O Buda ensinou que esta
 compreensão de quem somos é enganosa, baseada em determinados erros de
 percepção fundamentais, e é a causa-raiz do sofrimento humano.
 
 O Budismo ensina que, bem longe de ser o sólido centro de experiência, a
 sensação do ‘eu’ é criada a cada momento, usando uma identificação
 instintiva com os aspectos da experiência – o corpo, sentimentos,
-percepções, pensamentos, emoções, e autoconsciência. O Buda
+percepções, pensamentos, emoções e autoconsciência. O Buda
 encorajou-nos a olhar mais de perto a nossa experiência, de forma a ver
 se conseguimos descobrir este ‘eu’, que parece existir de forma tão
 óbvia. Ao reconhecer que a vida é um fluir de fenómenos, dependente de
 causas e de condições, mas sem dono nem controlador, intui-se o
 ‘não-eu’, ou anattā.
 
-Uma forma de compreender este ensinamento é a de considerara frase:
+Uma forma de compreender este ensinamento é a de considerar a frase:
 ‘Chove’ (em Inglês, ‘It rains’). Neste caso, a que é que se refere a
 palavra ‘it’ (N.T) nesta frase? Será que existe ‘it’ que está a chover,
 ou ao referirmo-nos a ‘it’ estamos simplesmente a empregar uma convenção
 linguística?
 
-O ensinamento do ‘não-eu’ é contra-intuitivo, e só consegue ser
+O ensinamento do ‘não-eu’ é contra-intuitivo e só consegue ser
 realizado numa mente estável e feliz. Por esta razão, a ênfase é
 colocada na criação de uma sólida base para esta intuição, através da
 prática da generosidade, da conduta moral e da meditação.
@@ -765,7 +765,7 @@ N.T. - ‘It’ é o 3º pronome pessoal, em inglês, usado para significar uma
 coisa, animal, situação ou ideia que já foi mencionada anteriormente,
 algo que não é usado em Português, uma vez que só temos masculino,
 ‘ele’, e feminino, ‘ela’. Curiosamente as expressões populares adoptam
-algo semelhante ao ‘it’, o que neste caso seia a expressão ‘ele hoje
+algo semelhante ao ‘it’, como por exemplo ‘ele hoje
 chove’ ou ‘ele vai chover’.
 
 == Se não existe o eu, afinal o que é renascer?
