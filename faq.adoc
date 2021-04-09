@@ -1,0 +1,34 @@
+= FAQ
+:doctype: book
+:includes: manuscript/asciidoc
+:toc: macro
+:toc-title: Índice
+:toclevels: 1
+
+Pergutas e Respostas
+
+As perguntas neste guida estão excertos do livro _Por Fora e Por Dentro_ por _Ajahn Jayasāro_.
+
+Pode fazer download o ebook:
+
+(TODO: add links)
+
+- EPUB
+- MOBI
+- PDF
+
+toc::[]
+
+include::{includes}/01-buda.adoc[]
+
+include::{includes}/02-dhamma.adoc[]
+
+include::{includes}/03-sangha.adoc[]
+
+include::{includes}/04-atitudes.adoc[]
+
+include::{includes}/05-budismo-na-tailandia.adoc[]
+
+include::{includes}/06-caminho-da-pratica.adoc[]
+
+include::{includes}/07-recursos.adoc[]

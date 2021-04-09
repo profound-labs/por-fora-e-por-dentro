@@ -1,0 +1,121 @@
+\documentclass[
+  final,
+  babelLanguage=portuguese,
+  desktopVersion,
+  %showtrims,
+  %overleaf,
+]{anecdote}
+
+\graphicspath{{./assets/photos/300dpi/}}
+
+% Page size: 148mm x 210mm (A5)
+% Body text: 10.5 / 15 pt
+
+\usepackage{local}
+
+%% Details of the book
+%% ===================
+
+\title{Por Fora e Por Dentro}
+\subtitle{Perguntas e respostas baseadas nos Ensinamentos do Budismo Theravāda}
+\author{Ajahn Jayasāro}
+\publisher{Publicações Sumedhārāma}
+\date{2020-05-25}
+\editionInfo{\textit{Primeira edição}, 2018}
+\ISBN{978-989-8691-92-7}
+
+% === Metadata ===
+
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) 2018, \thePublisher},
+  pdfsubject={\thesubtitle},
+  pdfkeywords={budismo, dhamma, ajahn jayasaro},
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={http://sumedharama.pt/},
+  pdflang={pt},
+}
+
+% FIXME \pdfinfo macro
+%\pdfinfo{%
+%  /Title (\thetitle)
+%  /Author (\theauthor)
+%  /Subject (\thesubtitle)
+%  /Keywords (budismo, dhamma, ajahn jayasaro)
+%  /GTS_PDFXVersion (PDF/X-1:2001)
+%  /GTS_PDFXConformance (PDF/X-1a:2001)
+%}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+\hyphenation{London Adulyadej}
+
+\begin{document}
+
+\frontmatter
+
+\ifdesktopversion
+\desktopCover{\includegraphics[width=\paperwidth]{./desktop-cover.jpg}}
+\fi
+
+\input{./manuscript/tex/titlepage.tex}
+
+\input{./manuscript/tex/copyright.tex}
+
+% NOTE: Only for the Katannyuta print edition.
+%\input{./manuscript/tex/dedication.tex}
+
+\chapterstyle{hightitle-toc}
+
+\cleartorecto
+\tableofcontents*
+
+\chapterstyle{hightitle}
+
+\cleartoverso
+\photoFullBleed{birds-Gr-crop.jpg}
+
+\input{./manuscript/tex/preface-aj-jayasaro-2020.tex}
+
+\input{./manuscript/tex/preface-bia-2020.tex}
+
+% \input{./manuscript/tex/preface-bia-2013.tex}
+
+% \input{./manuscript/tex/agradecimento-aj-payutto-2013.tex}
+
+\input{./manuscript/tex/introduction.tex}
+
+\input{./manuscript/tex/bencaos.tex}
+
+\addtocontents{toc}{\addvspace{10pt}}
+
+\mainmatter
+
+\input{./manuscript/tex/01-buda.tex}
+\input{./manuscript/tex/02-dhamma.tex}
+
+\cleartorecto
+\photoFullBleed{bell-Gr-crop.jpg}
+
+\addtocontents{toc}{\protect\clearpage}
+
+\input{./manuscript/tex/03-sangha.tex}
+\input{./manuscript/tex/04-atitudes.tex}
+
+\cleartorecto
+\photoFullBleed{buddha-hand-Gr-crop.jpg}
+
+\input{./manuscript/tex/05-budismo-na-tailandia.tex}
+\input{./manuscript/tex/06-caminho-da-pratica.tex}
+\input{./manuscript/tex/07-recursos.tex}
+
+\backmatter
+
+\input{./manuscript/tex/sponsors.tex}
+
+\input{./manuscript/tex/copyright-details.tex}
+
+\end{document}

@@ -1,0 +1,33 @@
+[#copyright, colophon]
+= Copyright
+
+{booktitle} +
+por {author}
+
+Publicações Sumedhārāma +
+link:http://sumedharama.pt[www.sumedharama.pt]
+
+Este livro encontra-se disponível para distribuição gratuita em +
+link:http://forestsangha.org/[www.forestsangha.org]
+
+Digital Edition {version}
+
+ePub ISBN {isbn}
+
+This electronic edition was published on {revdate}
+
+Copyright © 2018 Publicações Sumedhārāma
+
+Traduzido por Helena Gallis
+
+Tradução autorizada da edição inglesa:
+
+_Without and Within_ +
+Panyaprateep Foundation, 2015
+
+image::cc-by-nc-nd.png[creative commons, role=cc-icon]
+
+Este trabalho está licenciado com uma Licença Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional.
+
+<http://creativecommons.org/licenses/by-nc-nd/4.0/>
+

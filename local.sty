@@ -1,0 +1,66 @@
+\ProvidesPackage{local}
+
+\addto\captionsportuguese{%
+  \renewcommand{\contentsname}{Índice}%
+}
+
+% \chapter{} should not begin new page. The photo macro will.
+\artopttrue
+
+% Use arabic in the frontmatter as well. Avoids the problem with which number
+% the first photo chapter starts on.
+\renewcommand{\@memfront}{%
+  \@smemfront\pagenumbering{arabic}}
+
+% Avoid double empty page before first two-page photo chapter.
+\renewcommand*{\@smemmain}{%
+  \@mainmattertrue
+  \setcounter{secnumdepth}{\value{maxsecnumdepth}}
+  \ifartopt
+    \if@twoside
+      %\cleardoublepage
+    \else
+      \clearpage
+    \fi
+  \else
+    \cleardoublepage
+    \@memmain@floats
+  \fi}
+
+\newcommand*{\quoteTitleFmt}[1]{%
+  {%
+    \raggedright%
+    \crimsonRomanFont\color[gray]{0.2}%
+    \fontsize{14}{14}\itshape\bfseries\selectfont%
+    #1%
+    \par%
+  }%
+}
+
+\newcommand{\chapterPhotoTwoPageLeft}[1]{%
+  \cleartoverso%
+  \thispagestyle{empty}\mbox{}%
+  % Left page, photo
+  \ifoverleaf\relax%
+  \else%
+  \AddToShipoutPictureBG*{%
+    \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
+      \includegraphics[width={2\BOOK@paperWidth + 10mm}]{#1}%
+    }%
+  }%
+  \fi%
+}
+
+\newcommand{\chapterPhotoTwoPageRight}[1]{%
+  \cleartorecto%
+  \thispagestyle{empty}\mbox{}%
+  % Right page, photo
+  \ifoverleaf\relax%
+  \else%
+  \AddToShipoutPictureBG*{%
+    \put(\LenToUnit{-3mm - \BOOK@paperWidth},\LenToUnit{-3mm}){%
+      \includegraphics[width={2\BOOK@paperWidth + 10mm}]{#1}%
+    }%
+  }%
+  \fi%
+}
