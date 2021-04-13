@@ -147,9 +147,9 @@ primeiro passo para alcançar a libertação do sofrimento, bem como das
 suas causas, pois fornece, aos esforços feitos pelos budistas, uma base
 de suporte e uma direcção para alcançarem esse objectivo. O acto de se
 refugiarem assinala o primeiro passo de compromisso no caminho do Buda.
-Os budistas afirmam refugiar-se no Buda, como seu professor e guia, no
-Dhamma, os ensinamentos, como seu caminho, e no Sangha, os discípulos
-iluminados, como sendo a inspiração para o caminho.
+Os budistas afirmam refugiar-se no Buda (como seu professor e guia), no
+Dhamma (os ensinamentos) como seu caminho e no Sangha (os discípulos
+iluminados) como sendo a inspiração para o caminho.
 
 == Porque é que os ensinamentos budistas são referidos frequentemente como o Caminho do Meio?
 
@@ -157,8 +157,8 @@ O ‘Caminho do Meio’ é um termo usado pelo Buda em dois contextos
 distintos. Primeiro, como característica-cerne de seu ensinamento –
 todas as coisas surgem e desaparecem devido às causas e condições – como
 um caminho do meio entre os extremos do aniquilacionismo (a crença de
-que tudo termina com a morte) e a do eternalismo (a crença de que a morte é
-seguida de felicidade ou de condenação eternas).
+que tudo termina com a morte) e a do eternalismo (a crença de que a morte 
+é seguida de felicidade ou de condenação eternas).
 
 Segundo, o Buda apresentou o Óctuplo Caminho como um caminho médio entre
 os extremos da indulgência sensorial e do vazio asceticismo, (‘sem dor
@@ -249,14 +249,14 @@ Tais ofertas, quando dadas com a motivação certa, podem efectivamente
 ser meritórias, mas o mérito não se restringe apenas a esses actos.
 
 As acções generosas são valiosas porque reduzem o poder do apego
-egoísta, e ensinam a alegria da dádiva. Praticar os preceitos é
+egoísta e ensinam a alegria da dádiva. Praticar os preceitos é
 meritório porque enfraquece o impulso de nos magoarmos e de magoar os
 outros, porque habitua a mente a libertar-se de remorsos e a sentir
 respeito por si próprio. Mas o tipo de mérito mais importante vem da
 prática do Óctuplo Caminho, particularmente da prática da meditação.
 Meditar com regularidade implica comprometer-se no cultivo das
 competências da vida. Significa responsabilizar-se directamente pelo
-abandono das causas do sofrimento, e por exponenciar a paz, a sabedoria
+abandono das causas do sofrimento e por exponenciar a paz, a sabedoria
 e a compaixão. Como a meditação é que efectua a maior transformação da
 mente, ela é o mais portentoso gerador de mérito.
 
@@ -284,8 +284,8 @@ um fenómeno meramente criado pelos trabalhos do cérebro.
 As hipóteses e as teorias surgem na mente humana - não são embebidas no
 mundo externo. A experiência subjectiva é a característica principal da
 nossa vida. A contenda budista defende: qualquer busca das verdades
-perpétuas que ignore este facto, ficará para sempre circunscrita ao sucesso
-parcial.
+perpétuas que ignore este facto, ficará para sempre circunscrita ao 
+sucessoparcial.
 
 Apesar destas e doutras diferenças entre o Budismo e a ciência, há que
 reconhecer que muitos budistas sentem que os seus pontos de vista estão
@@ -313,7 +313,7 @@ O Buda, ao compreender a natureza causal dos fenómenos, não postulou
 valores absolutos de bem e de mal, opondo-se entre si numa guerra sem
 fim. Por isso, há que descartar a ideia de ele ter ensinado o triunfo
 final de um dos lados da luta, coisa que, primeiro de tudo, ele não
-reconheceu existir. Os budistas defendem que, se uma chávena de chá
+reconheceu existir. Os budistas defendem que se uma chávena de chá
 tiver um sabor salgado, mesmo que seja o mais desagradável possível, não
 é uma evidência de um universo essencialmente maligno. É simplesmente o
 resultado de alguém que se enganou no recipiente, pegando no do sal, em
@@ -321,7 +321,7 @@ vez do açúcar.
 
 == Mas afinal o Budismo não trata só do sofrimento?
 
-O Buda disse que, todos os seus ensinamentos, tradicionalmente contados
+O Buda disse que todos os seus ensinamentos, tradicionalmente contados
 como 84.000, se poderiam reduzir a apenas dois: sofrimento e o fim do
 sofrimento. O sofrimento, no sentido de aflição física ou mental, é só a
 expressão mais grosseira de dukkha. A relação que existe entre a palavra
@@ -338,7 +338,7 @@ Posto de uma forma mais simples, dukkha pode ser expresso como ‘uma
 ausência de verdadeira felicidade’.
 
 O Buda ensinou a via para a cessação do sofrimento, mas enfatizou que a
-libertação do sofrimento só seria possível, se ele fosse confrontado e
+libertação do sofrimento só seria possível se ele fosse confrontado e
 completamente compreendido na sua natureza. Na Primeira Nobre Verdade, o
 Buda afirma que a vida do ser comum não iluminado se caracteriza por
 dukkha, devido aos anseios que acompanham o desconhecimento de como as
@@ -352,7 +352,7 @@ abandonado, e o segundo (chanda), a ser cultivado.
 Tanhā é o desejo que surge de um mal-entendido básico sobre como são as
 coisas: o facto de se ver permanência, felicidade e individualidade,
 onde não existem. O desejo pelos prazeres, a obter através de posse, de
-descartar algo, e de se tornar em algo, é tanhā. Tanhā leva ao
+descartar algo e de se tornar em algo, é tanhā. Tanhā leva ao
 sofrimento pessoal e é a base de quase todos os males sociais.
 
 Chanda é o desejo que surge de uma compreensão correcta de como as
@@ -363,7 +363,7 @@ realização pessoal e a sãs comunidades.
 
 A distinção entre chanda e tanhā não é filosófica, mas psicológica. Ao
 se observar de perto a crua experiência de vida, a distinção entre
-desejos que levam à felicidade genuína, e os que não levam, torna-se
+desejos que levam à felicidade genuína e os que não levam, torna-se
 cada vez mais clara.
 
 == O que significa ‘largar’?
@@ -501,7 +501,7 @@ do Budismo.
 
 == Qual é o objectivo final da prática do Dhamma?
 
-Os resultados da prática do Dhamma podem ser expressos, tanto pela
+Os resultados da prática do Dhamma podem ser expressos tanto pela
 negativa, como pela positiva. Num sentido negativo, o resultado é a
 libertação de todo o sofrimento e de todas as causas do sofrimento,
 nomeadamente dos estados mentais nocivos enraizados na cobiça, no ódio e
@@ -708,11 +708,11 @@ Outros, de disposições mais cépticas, têm reservas sobre tal.
 
 Os professores budistas consideram que, mais importante do que estimular
 a fé na existência de tais seres invisíveis, há que infundir atitudes
-sábias para com eles. O Buda ensinou que todos os seres sem excepção são
-nossos companheiros de caminhada nos reinos do nascimento e da morte, e
-como tal não deveriam ser adorados nem subornados com ofertas. Os
+sábias para com eles. O Buda ensinou que todos os seres, sem excepção, são
+nossos companheiros de caminhada nos reinos do nascimento e da morte e,
+como tal, não deveriam ser adorados nem subornados com ofertas. Os
 budistas são ensinados a cultivar uma atitude de respeito e de bondade
-para com os seres não humanos. Ao fazê-lo, tornam-se amados por eles, e
+para com os seres não humanos. Ao fazê-lo, tornam-se amados por eles e
 livres de quaisquer perigos que venham destes seres. E, se se der o caso
 de os fenómenos percebidos como espíritos serem simplesmente produto do
 inconsciente humano, tomar a mesma atitude é a melhor cura.
@@ -722,7 +722,7 @@ inconsciente humano, tomar a mesma atitude é a melhor cura.
 A impermanência é a característica principal da existência. Tudo muda,
 nada fica igual, nada dura para sempre. Embora isto possa parecer uma
 observação banal, uma investigação mais atenta revela quantos dos
-pensamentos, emoções, percepções, desejos e medos ocorrem precisamente,
+pensamentos, emoções, percepções, desejos e medos ocorrem precisamente
 porque a verdade da impermanência é constantemente esquecida. A reflexão
 continuada sobre a condicionada e impermanente natureza das coisas evita
 que nos entusiasmemos e nos descuidemos quando tudo corre bem, e que
@@ -734,7 +734,7 @@ fenómenos físicos e mentais.
 == Qual é o significado do ‘não-eu’?
 
 A pessoa não iluminada assume que existe uma entidade permanente
-independente que subjaz à experiência, e que esta entidade é o ‘nós’,
+independente que subjaz à experiência e que esta entidade é o ‘nós’,
 quem nós verdadeiramente somos. Tomamos como garantido que este ‘eu’ é
 quem vê, pensa, sente, ouve, fala e age. O Buda ensinou que esta
 compreensão de quem somos é enganosa, baseada em determinados erros de
