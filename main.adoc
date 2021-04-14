@@ -3,8 +3,8 @@
 :description: Perguntas e respostas baseadas nos Ensinamentos do Budismo Theravāda
 :author: Ajahn Jayasāro
 :creator: {author}
-:version: v1.1
-:revdate: 2020-05-25
+:version: v1.2
+:revdate: 2021-04-14
 :doctype: book
 :lang: pt
 :pubs-logo: sumedharama-logo-black-w150.jpg
